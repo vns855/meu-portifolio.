@@ -34,3 +34,5 @@ while True:
     break
   
 print(f"O número que foi advinhado era {na}, e você precisou {contador} tentativa(s)!")
+
+[link_text] (https://1drv.ms/x/c/2ecff07048667e91/EboQD8SAz05BimSLbuBnD5YBNrSFJw-wbtbMauumUdF01Q?e=o4dSgV)
