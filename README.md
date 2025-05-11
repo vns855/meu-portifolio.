@@ -4,6 +4,10 @@
 
 
 # Exercício sobre listas de compras:
+inlide 'codigo1'
+
+indented 'codigo1'
+
 l1 = ['abacaxi', 'banana', 'uva']
 l2 = []
 
@@ -21,3 +25,20 @@ else:
 
 print("Lista 2 agora:", l2)
 print("Lista 1 agora:", l1)
+
+# Exercício sobre advinhar números:
+inlide 'codigo1'
+
+indented 'codigo1'
+
+import random
+na = random.randint (1,10)
+
+contador = 0
+while True:
+  e = int(input("Escolha um número de 1 a 10: "))
+  contador += 1 
+  if e == na:
+    break
+  
+print(f"O número que foi advinhado era {na}, e você precisou {contador} tentativa(s)!")
