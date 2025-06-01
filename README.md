@@ -1,4 +1,6 @@
-![Foto de Vinicius Jorge](./foto.JPG)
+<div align="center">
+  <img src="./foto.JPG" alt="Foto de Vinicius Jorge" width="200"/>
+</div>
 # 👋 Olá! Bem-vindo(a) ao meu portfólio.
 
 Meu nome é **Vinicius Jorge** e atualmente estudo **Ciência da Computação** no **Centro Universitário de Brasília (CEUB)**.
