@@ -1,4 +1,4 @@
-![Foto de Vinicius Jorge](./foto.jpg)
+![Foto de Vinicius Jorge](./foto.JPG)
 # 👋 Olá! Bem-vindo(a) ao meu portfólio.
 
 Meu nome é **Vinicius Jorge** e atualmente estudo **Ciência da Computação** no **Centro Universitário de Brasília (CEUB)**.
