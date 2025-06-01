@@ -1,43 +1,35 @@
-# Olá! Bem-vindo(a) ao meu portfólio.
-## Meu nome é Vinicius Jorge e atualmente estudo Ciência da Computação no CEUB.
-## Eu não tenho muitos projetos salvos, pois ainda estou no começo do curso mas, aqui estão alguns exemplos.
+# 👋 Olá! Bem-vindo(a) ao meu portfólio.
 
+Meu nome é **Vinicius Jorge** e atualmente estudo **Ciência da Computação** no **Centro Universitário de Brasília (CEUB)**.
 
-# Exercício sobre listas de compras:
-l1 = ['abacaxi', 'banana', 'uva']
-l2 = []
+Ainda estou no começo da minha jornada acadêmica, então não tenho muitos projetos salvos por enquanto. Mas aqui estão alguns exemplos que mostram um pouco do que venho aprendendo:
 
-print("Lista 1:", l1)
-print("Lista 2:", l2)
+## 📌 Projetos e Exercícios
 
-e = input("Qual elemento você deseja transferir da Lista 1 para a Lista 2? ").lower()
+- 🛒 **Exercício sobre listas de compras**  
+  [Acesse no Google Colab](https://colab.research.google.com/drive/1DqWcKf24s9JJrtmICLQl3PZitiYQ2FQ_?usp=sharing)
 
-if e in l1:
-    l1.remove(e) 
-    l2.append(e)
-    print("Elemento transferido com sucesso.")
-else:
-    print("Elemento não encontrado na Lista 1.")
+- 🔢 **Exercício de adivinhação de números**  
+  [Acesse no Google Colab](https://colab.research.google.com/drive/1yIvxApjAtuXOqrC102OzfhXoIstBSqAR?usp=sharing)
 
-print("Lista 2 agora:", l2)
-print("Lista 1 agora:", l1)
+- 🧮 **Equação do 2° grau (em Excel)**  
+  [Download/Visualização no OneDrive](https://1drv.ms/x/c/2ecff07048667e91/EboQD8SAz05BimSLbuBnD5YBNrSFJw-wbtbMauumUdF01Q?e=o4dSgV)
 
-## link do código: https://colab.research.google.com/drive/1DqWcKf24s9JJrtmICLQl3PZitiYQ2FQ_?usp=sharing
+---
 
-# Exercício sobre advinhar números:
-import random
-na = random.randint (1,10)
+## 📚 Sobre mim
 
-contador = 0
-while True:
-  e = int(input("Escolha um número de 1 a 10: "))
-  contador += 1 
-  if e == na:
-    break
-    
-print(f"O número que foi advinhado era {na}, e você precisou {contador} tentativa(s)!")
+- 🎓 Estudante de Ciência da Computação
+- 📍 Baseado em Brasília, Brasil
+- 🌱 Em constante aprendizado sobre programação, algoritmos e lógica computacional
 
-## link do código: https://colab.research.google.com/drive/1yIvxApjAtuXOqrC102OzfhXoIstBSqAR?usp=sharing
+---
 
-# Equação do 2°Grau EXCEL
-https://1drv.ms/x/c/2ecff07048667e91/EboQD8SAz05BimSLbuBnD5YBNrSFJw-wbtbMauumUdF01Q?e=o4dSgV
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-jorge-maciel-lima-062515365/)
+- 📧 vinicius.jorge@sempreceub.com
+
+---
+
+*Obrigado por visitar meu portfólio! 🚀*
